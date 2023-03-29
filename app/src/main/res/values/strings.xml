@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Grooming Pets</string>
+    <string name="detailDescription">Burger with extra cheese</string>
+
+    <string name="open_nav_drawer">Open Navigation Drawer</string>
+    <string name="close_nav_drawer">Close Navigation Drawer</string>
+</resources>
